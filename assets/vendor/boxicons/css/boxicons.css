@@ -20,6 +20,7 @@
     line-height: 1;
     text-rendering: auto;
     display: inline-block;
+    color: red !important;
 
     text-transform: none;
 

@@ -536,6 +536,11 @@ h6 {
 section {
   padding: 80px 0;
 }
+.bx-link{
+  color: red !
+  ;
+}
+
 
 .section-bg {
   background-color: #fafafb;
